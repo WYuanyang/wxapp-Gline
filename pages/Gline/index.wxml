@@ -1,0 +1,3 @@
+<!--pages/Gline/index.wxml-->
+<view class="g-title">（G23）选择出发站点 <text class="chooseStation">{{chooseStation}}</text> </view>
+<canvas  bindtouchstart="touchS"  canvas-id="map" style='width:{{canvWidth}}rpx;height:{{canvHeight}}px;background-color: #eee' />

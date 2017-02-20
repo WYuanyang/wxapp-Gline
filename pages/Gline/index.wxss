@@ -1,0 +1,4 @@
+/* pages/Gline/index.wxss */
+page{ background-color: #eeeeee }
+.g-title{font-size: 36rpx;font-weight: 600;color: #768da4;padding: 36rpx 0;padding-left: 20rpx; background-color: #fff}
+.chooseStation{color: #32b16c}
